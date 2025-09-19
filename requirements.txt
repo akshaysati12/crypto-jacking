@@ -1,0 +1,8 @@
+psutil
+scapy
+PyQt5
+matplotlib
+requests
+beautifulsoup4
+PyInstaller
+GPUtil
